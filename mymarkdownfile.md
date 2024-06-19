@@ -2,8 +2,8 @@
 
 This is some sample text.
 
-(section-label)=
-## Here's my first section
+(section-label)=prueba
+## Continuidad
 
 
 Hola estoy probando 
